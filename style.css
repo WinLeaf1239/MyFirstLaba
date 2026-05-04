@@ -1,0 +1,46 @@
+*{
+  font-family: "Roboto", sans-serif;
+}
+
+
+
+
+
+header{
+    background-image: url(/images/11\(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+
+
+.black-button{
+    background-color: #000000;
+    color: #F8F200;
+
+}
+
+.yellow-button{
+
+}
+
+
+.h-text{
+    font-family: "Archangelsk" ;
+}
+
+
+
+
+
+
+
+
+@font-face{
+    font-family: "Archangelsk";
+    src:url(/Arhangels/Archangelsk.ttf) format("truetype");
+}
+
+
+
+
+
