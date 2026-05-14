@@ -32,10 +32,14 @@ header a{
     font-size: 24px;
     line-height: 40px;
     letter-spacing: 0%;
+    margin: 25px 282px 70px 70px;
     
 
 }
 
+.header-text{
+    max-width: 484px;   
+}
 
 .h-text{
     font-family: "Archangelsk" ;
@@ -43,7 +47,8 @@ header a{
     font-size: 62px;
     line-height: 100%;
     letter-spacing: 0%;
-    padding: 70px 70px 173px 70px;
+
+    
 }
 
 .flex{
